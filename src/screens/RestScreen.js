@@ -57,5 +57,3 @@ const RestScreen = () => {
 };
 
 export default RestScreen;
-
-const styles = StyleSheet.create({});
