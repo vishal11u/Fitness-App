@@ -7,9 +7,9 @@ import { useNavigation } from "@react-navigation/native";
 const FitnessCards = () => {
     const FitnessData = fitness;
     const navigation = useNavigation();
-    
+
     return (
-        <View>
+        <View style={{ backgroundColor: '#fff', padding: 5 }}>
             {FitnessData.map((item, key) => (
                 <Pressable
                     onPress={() => navigation.navigate("Workout", {
@@ -30,7 +30,7 @@ const FitnessCards = () => {
                     <MaterialCommunityIcons
                         style={styles.icon}
                         name="lightning-bolt"
-                        size={24}
+                        size={22}
                         color="black"
                     />
                 </Pressable>
@@ -65,5 +65,9 @@ const styles = StyleSheet.create({
         color: "white",
         bottom: 15,
         left: 20,
+        borderWidth: 1,
+        borderColor: '#fff',
+        borderRadius: 100,
+        padding: 2
     },
 });
