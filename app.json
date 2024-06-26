@@ -1,10 +1,10 @@
 {
   "expo": {
     "name": "fitness",
-    "slug": "fitness",
+    "slug": "rambo-fitness",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/adaptive-icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -18,10 +18,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.itzvishal.rambofitness"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5a999382-98c0-4cff-941e-89493d130e55"
+      }
+    },
+    "owner": "itzvishal"
   }
 }
