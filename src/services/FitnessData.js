@@ -1,8 +1,7 @@
 export default [
     {
         id: "0",
-        image:
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrEM-6gDUO7g1cdrNhBaqk_0nwxy6ILlIqsQ&usqp=CAU",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrEM-6gDUO7g1cdrNhBaqk_0nwxy6ILlIqsQ&usqp=CAU.gif",
         name: "FULL BODY",
         description: "7x4 CHALLENGE",
         excersises: [
@@ -33,7 +32,7 @@ export default [
             },
             {
                 id: "14",
-                image: "https://www.yogajournal.com/wp-content/uploads/2021/12/Cobra.gif?width=730",
+                image: "https://www.yogajournal.com/wp-content/uploads/2021/12/Cobra.gif?width=730.gif",
                 name: "COBRA STRETCH",
                 sets: 10,
             },
@@ -48,7 +47,7 @@ export default [
     {
         id: "1",
         image:
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRonpSjpGQ2-JD8-XFFD7LYsVSFCOiASj0wSOq1qxNvxGFHe7W6AU1LRAeJ2fOIzYICMGc&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRonpSjpGQ2-JD8-XFFD7LYsVSFCOiASj0wSOq1qxNvxGFHe7W6AU1LRAeJ2fOIzYICMGc&usqp=CAU.gif",
         name: "ABS BEGINNER",
         description: "7x4 CHALLENGE",
         excersises: [
@@ -87,7 +86,7 @@ export default [
     {
         id: "2",
         image:
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1NHvoutGn-Vr_uwVbOOtezhENvx9jhV6pfQ&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1NHvoutGn-Vr_uwVbOOtezhENvx9jhV6pfQ&usqp=CAU.gif",
         name: "ARM BEGINNER",
         description: "7x4 CHALLENGE",
         excersises: [
@@ -139,7 +138,7 @@ export default [
     {
         id: "3",
         image:
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqCT0tewpNAZ6R9JUoMDHIHGnpE44U2Fl1Zw&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqCT0tewpNAZ6R9JUoMDHIHGnpE44U2Fl1Zw&usqp=CAU.gif",
         name: "CHEST BEGINNER",
         description: "7x4 CHALLENGE",
         excersises: [
